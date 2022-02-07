@@ -23,7 +23,7 @@ now it is an obsolete version for my work environment, that's why I post it for 
 	-TOKEN: 5197963331:AAEqf5RZVmcQZW7McEBPkbFeph-DC9LutWA
 	- MODE: prod
 	- CHAT_ID_FORWARD: 620469287
-	- HEROKU_APP_NAME: (HEROKU APP NAME)
+	- HEROKU_APP_NAME: gguchiha
 '''
 
 
