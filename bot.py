@@ -20,9 +20,9 @@ now it is an obsolete version for my work environment, that's why I post it for 
 ---------------Deploy on Heroku
 
 -Secret keys: 
-	-TOKEN: 123:ABC
+	-TOKEN: 5197963331:AAEqf5RZVmcQZW7McEBPkbFeph-DC9LutWA
 	- MODE: prod
-	- CHAT_ID_FORWARD: -1111
+	- CHAT_ID_FORWARD: 620469287
 	- HEROKU_APP_NAME: (HEROKU APP NAME)
 '''
 
